@@ -1,0 +1,14 @@
+{
+  "name": "inclassexp",
+  "version": "1.0.0",
+  "description": "Exp assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victoria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
